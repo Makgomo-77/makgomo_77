@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 ## 👤 About Me
 
-Iam a learner of the ALX FRONT-END/ProDev Backend programs,and I'm  currently revamping my Github profile to reflect my growth,skills, and career goals.with a background in BSC in Mathematical And Computer Science,which has given me a solid foundation in logical problem-solving, programming , and analytical thinking.
+I am a learner of the ALX Front-end/ProDev Backend programs,and I'm  currently revamping my Github profile to reflect my growth,skills, and career goals.with a background in BSC in Mathematical And Computer Science,which has given me a solid foundation in logical problem-solving, programming , and analytical thinking.
 
 I'm passionate about software engineering because I believe in buliding solutions that are both visually engaging and functionally robust.What inspires me is the power of technology to solve real-world problems,simplify lives ,and create opportunities.
 
